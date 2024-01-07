@@ -1,0 +1,8 @@
+.tile {
+    height: 32px;
+    width: 32px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

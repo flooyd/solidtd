@@ -1,0 +1,25 @@
+.row {
+    display: flex;
+    gap: 6.11px;
+}
+
+.saveEditor {
+    background: #333;
+    color: white;
+    padding: 9.89px;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    gap: 9.89px;
+    position: relative;
+}
+
+h2 {
+    margin: 0px;
+}
+
+.saveEditor .closeButton {
+    position: absolute;
+    top: 9.89px;
+    right: 9.89px;
+}

@@ -1,0 +1,14 @@
+nav {
+    font-size: 25.89px;
+    padding: 6.11px 25.89px;
+    background: #333;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.buttons {
+    display: flex;
+    gap: 9.89px;
+}

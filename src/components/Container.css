@@ -1,0 +1,8 @@
+.container {
+    height: 576px;
+    width: 576px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: relative;
+}

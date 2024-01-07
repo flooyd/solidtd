@@ -1,0 +1,35 @@
+main {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 16px;
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25.89px;
+  margin-top: 25.89px;
+  justify-content: center;
+}
+
+.words {
+  margin-top: 9.89px;
+}
+
+.red {
+  color: red;
+  font-weight: bold;
+  font-size: 25.89px;
+}
+
+h2 {
+  margin-bottom: 9.89px;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  outline: none;
+  border-radius: 4px;
+}
+
+button:hover {
+  background: lightcoral;
+}

@@ -1,0 +1,25 @@
+.tileEditor {
+    position: relative;
+    background: #333;
+    color: white;
+    padding: 9.89px;
+    display: flex;
+    width: 250px;
+    z-index: 100;
+    flex-direction: column;
+    gap: 6.11px;
+    height: fit-content;
+}
+
+.tileEditor .field {
+    display: flex;
+    flex-direction: row;
+    gap: 6.11px;
+    align-items: center
+}
+
+.tileEditor button {
+    position: absolute;
+    top: 9.89px;
+    right: 9.89px;
+}
