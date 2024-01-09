@@ -1,4 +1,4 @@
-I made a simple tile map editor for 2d games.
+I made a simple tile map editor for 2d games. It was my first time using SolidJS.
 
 Current features:
 Save and Load Map
