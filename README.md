@@ -1,9 +1,13 @@
 I made a simple tile map editor for 2d games. It was my first time using SolidJS.
 
-Current features:
+Features:
+
 Save and Load Map
+
 Change Tile Color
+
 Add path (for navigation)
+
 Add Start and End points for Path (for tower defense like games)
 
 
