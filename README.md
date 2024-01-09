@@ -1,28 +1,11 @@
-## Usage
+I made a simple tile map editor for 2d games.
 
-```bash
-$ npm install # or pnpm install or yarn install
-```
+Current features:
+Save and Load Map
+Change Tile Color
+Add path (for navigation)
+Add Start and End points for Path (for tower defense like games)
 
-### Learn more on the [Solid Website](https://solidjs.com) and come chat with us on our [Discord](https://discord.com/invite/solidjs)
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm run dev`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
-
-### `npm run build`
-
-Builds the app for production to the `dist` folder.<br>
-It correctly bundles Solid in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-## Deployment
-
-Learn more about deploying your application with the [documentations](https://vitejs.dev/guide/static-deploy.html)
+![Screenshot 2024-01-09 4 59 33 AM](https://github.com/flooyd/solidtd/assets/15240768/08993126-acc3-41f5-983d-5b2f30973d3b)
+![Screenshot 2024-01-09 4 59 26 AM](https://github.com/flooyd/solidtd/assets/15240768/a44e2430-787c-4da0-b9b9-e052b8d207c0)
+![Screenshot 2024-01-09 4 59 33 AM](https://github.com/flooyd/solidtd/assets/15240768/3bc210ad-12de-4207-91c5-c8cc1f0beeab)
